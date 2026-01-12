@@ -1,0 +1,9 @@
+{
+    "short_name": "MSME.Fi",
+    "name": "MSME Invoice Financing",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0E0E0E",
+    "background_color": "#0E0E0E"
+}

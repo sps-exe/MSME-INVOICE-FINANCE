@@ -1,0 +1,23 @@
+:root {
+    /* Light Mode Palette */
+    /* Premium Vintage Palette */
+    /* Premium Vintage Palette */
+    --color-background: #050505;
+    /* Rich Black for page background */
+    --color-surface: #FDFBF7;
+    /* Off-white / Muted Beige for card */
+    --color-text-primary: #1A1A1A;
+    /* Deep Charcoal/Black */
+    --color-text-secondary: #5C5C5C;
+    /* Muted Gray */
+    --color-accent: #1A1A1A;
+    /* Primary Action: Black (Luxury/Trust) */
+    --color-accent-hover: #9C6644;
+    /* Vintage Brown for hover/interactions */
+    --color-border: #E6E1D6;
+    /* Warm border color */
+
+    /* Fonts */
+    --font-heading: 'Playfair Display', serif;
+    --font-body: 'Inter', sans-serif;
+}

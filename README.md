@@ -2,8 +2,6 @@
 
 A fintech-grade React + FastAPI application for managing invoice financing, featuring automated risk scoring, an underwriting console, and a slick, modern UI.
 
-![Dashboard Preview](./docs/dashboard-preview.png) *(Note: Add a screenshot here if available)*
-
 ## 🚀 Features
 
 ### Public Portal

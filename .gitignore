@@ -8,3 +8,14 @@ venv/
 
 # OS
 .DS_Store
+
+# Database
+*.db
+*.sqlite3
+
+# Frontend Build
+frontend/build/
+frontend/dist/
+
+# Artifacts
+*.pyc
